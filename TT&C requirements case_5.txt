@@ -1,0 +1,28 @@
+Data of TT&C requirements
+
+Number of requirements
+5
+Number of constraints
+6
+Points in day time
+1800 0 0 18000 10800 
+Number of total TT&C laps of each requirement
+4 4 4 4 4 
+Number of lifting TT&C laps of each requirement
+2 0 0 2 2 
+Number of descending TT&C laps of each requirement
+2 0 0 2 2 
+Number of leaving TT&C laps of each requirement
+0 0 0 0 0
+Number of entry TT&C laps of each requirement
+0 0 0 0 0
+Constraint matrix of the TT&C requirements
+1	1	1	0	0	0	
+1	0	0	0	0	0	
+1	0	0	0	0	0	
+1	1	1	0	0	0	
+1	1	1	0	0	0	
+
+
+
+
